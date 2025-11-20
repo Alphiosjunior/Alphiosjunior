@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphiosjunior
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently studying BET Computer Engineering, year 2
+- 🌱 I’m currently studying BET Computer Engineering, Final year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
