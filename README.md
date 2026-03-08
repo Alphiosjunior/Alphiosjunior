@@ -45,6 +45,7 @@ I build real things — automated AWS infrastructure with Terraform, containeriz
 
 | Project | Description | Tech |
 |---|---|---|
+| [🗂️ Job Application Tracker](https://github.com/Alphiosjunior/job-application-tracker) | Full-stack serverless app — REST API, glassmorphic UI, real-time dashboard | AWS Lambda, API Gateway, DynamoDB, Terraform, Python |
 | [⚡ Serverless Load Shedding API](https://github.com/Alphiosjunior/terraform-serverless-loadshedding-api) | Production REST API for SA load shedding schedules | AWS Lambda, API Gateway, DynamoDB, Terraform |
 | [🏗️ AWS Infrastructure Automation](https://github.com/alphiosjunior/terraform-aws-infrastructure) | Full IaC deployment of EC2, S3, security groups | Terraform, AWS |
 | [🐳 Containerized App on ECS Fargate](https://github.com/alphiosjunior/terraform-ecs-fargate-flask) | Dockerized Flask app with load balancing & monitoring | Docker, ECS, CloudWatch, Terraform |
