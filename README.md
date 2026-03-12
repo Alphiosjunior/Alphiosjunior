@@ -1,4 +1,4 @@
-# Hi, I'm Iviwe (Alphiosjunior) Ngqele 👋
+# Hi, I'm Alphiosjunior Iviwe Ngqele 👋
 
 **Computer Engineering Graduate · Cloud & DevOps Engineer · Cybersecurity Enthusiast**
 Cape Town, South Africa 🇿🇦
