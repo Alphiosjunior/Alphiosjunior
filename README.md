@@ -45,13 +45,13 @@ I build real things — automated AWS infrastructure with Terraform, containeriz
 
 | Project | Description | Tech |
 |---|---|---|
+| [🤖 HireIQ — AI Career Coach](https://github.com/Alphiosjunior/hireiq) | AI-powered career coach for junior developers — resume analysis, job matching, interview prep | Python, TypeScript, AWS, FastAPI |
 | [🗂️ Job Application Tracker](https://github.com/Alphiosjunior/job-application-tracker) | Full-stack serverless app — REST API, glassmorphic UI, real-time dashboard | AWS Lambda, API Gateway, DynamoDB, Terraform, Python |
 | [⚡ Serverless Load Shedding API](https://github.com/Alphiosjunior/terraform-serverless-loadshedding-api) | Production REST API for SA load shedding schedules | AWS Lambda, API Gateway, DynamoDB, Terraform |
 | [🏗️ AWS Infrastructure Automation](https://github.com/alphiosjunior/terraform-aws-infrastructure) | Full IaC deployment of EC2, S3, security groups | Terraform, AWS |
 | [🐳 Containerized App on ECS Fargate](https://github.com/alphiosjunior/terraform-ecs-fargate-flask) | Dockerized Flask app with load balancing & monitoring | Docker, ECS, CloudWatch, Terraform |
 | [📦 Amazon Fulfillment Analytics](https://github.com/Alphiosjunior/amazon-fulfillment-analytics) | Analyzed 100K+ orders, identified R288K savings potential | Python, Pandas, Matplotlib |
 | [🚀 CI/CD Pipeline](https://github.com/alphiosjunior/terraform-s3-cloudfront-website) | Automated deploy on every git push | GitHub Actions, Terraform, AWS |
-
 ---
 
 ## 📜 Certifications
